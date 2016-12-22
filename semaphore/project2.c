@@ -38,12 +38,6 @@ void os_primitive()
 
   mutex = *mysem_create(1);
   pot_full = *mysem_create(0); //pot not full at the beginning
-
-  //Print Values for Testing***************************************************************
-//  alt_printf("pot_full: Value of Semphore     =>  %x\n", mysem_value(&pot_full));
-//  alt_printf("pot_full: Number of Threads Waiting   =>  %x\n", mysem_waitCount(&pot_full));
-//  alt_printf("mutex: Value of Semphore     =>  %x\n", mysem_value(&mutex));
-//  alt_printf("mutex: Number of Threads Waiting   =>  %x\n\n", mysem_waitCount(&mutex));
   
   //Create bees
   for (i = 0; i < NUM_BEES; i++)
@@ -83,18 +77,8 @@ void bear() {
   for(i=0; i < MAX_NUM_OF_POTS_CONSUMED; i++) {
     mysem_down(&pot_full);
     
-    //Store value for testing***************************************************************
-    int temp;
-    temp = portions;
-    
     portions = 0; //eat all the honey
     alt_printf("Honey = %x: The bear ate all the honey for time %x\n\n", portions, i);
-    
-    //Print Values for Testing***************************************************************
-//    alt_printf("pot_full: Value of Semphore     =>  %x\n", mysem_value(&pot_full));
-//    alt_printf("pot_full: Number of Threads Waiting   =>  %x\n", mysem_waitCount(&pot_full));
-//    alt_printf("mutex: Value of Semphore     =>  %x\n", mysem_value(&mutex));
-//    alt_printf("mutex: Number of Threads Waiting   =>  %x\n\n", mysem_waitCount(&mutex));
     
     mysem_up(&mutex);
     for (j = 0; j < DELAY; j++){};
@@ -116,14 +100,8 @@ void bee() {
       alt_printf("Honey = %x: Bee %x added Portion %x of its honey\n", portions, mythread_getCurrentRunningTid(), i);
       mysem_up(&mutex);
     }
-    
-    //Print Values for Testing***************************************************************
-//    alt_printf("pot_full: Value of Semphore     =>  %x\n", mysem_value(&pot_full));
-//    alt_printf("pot_full: Number of Threads Waiting   =>  %x\n", mysem_waitCount(&pot_full));
-//    alt_printf("mutex: Value of Semphore     =>  %x\n", mysem_value(&mutex));
-//    alt_printf("mutex: Number of Threads Waiting   =>  %x\n\n", mysem_waitCount(&mutex));
 
-    //adjust DELAY so only one deposit per run
+    //DELAY is adjusted so that bees only deposit once or twice per run
     for (j = 0; j < DELAY; j++){};
   }
   alt_printf("Bee %x commits suicide\n\n", mythread_getCurrentRunningTid());

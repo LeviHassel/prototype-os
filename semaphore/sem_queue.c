@@ -8,7 +8,6 @@
 
 void sem_enqueue(void *data, mysem* sem)
 {
-    
     sem_E_type  *elem;
 
     if ((elem = (sem_E_type *)malloc(sizeof(sem_E_type))) == NULL)
@@ -28,7 +27,6 @@ void sem_enqueue(void *data, mysem* sem)
     sem->queue.size++;
 }
 
-//MAY NEED TO USE '&' TO ACCESS SEM VALUES, AS IN PROJECT2.C
 void *sem_dequeue(mysem* sem)
 {
 	sem_E_type  *elem;

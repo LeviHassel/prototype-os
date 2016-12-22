@@ -2,8 +2,6 @@
 #include "queue.h"
 
 static Q_type queue = {NULL, NULL, 0};
-//May have to extend this so the functions enqueue and dequeue can be more generic and work with different types of queues
-//Modify/add to enqueue and dequeue to specify which queue we want to work on
 
 void enqueue(void *data)
 {
