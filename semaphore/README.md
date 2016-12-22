@@ -36,7 +36,7 @@ The project is split across many files.
 An Altera DE1/DE2 board is required to run this code. Follow the steps [here](http://cse.unl.edu/~witty/class/csce351/Project/prelab/prelab.htm) to program the board and prepare the necessary software on your computer. After setting up the run configurations, simply import the files in this directory and run your configuration to begin the program.
 
 ## Expected Output
-The program prints output in respect to the honey pot. It shows every time the number of honey portions changes, who was responsible (the bear or a bee) and how many times that bear/bee has done the same thing. Once a bee has deposited 15 portions of honey total, it commits suicide. Once the bear has eaten the honey pot five times, it commits suicide. At this point, the program returns to the main function and carries out an endless loop. See output.txt for actual output produced when running code.
+The program prints output in respect to the honey pot. It shows every time the number of honey portions changes, who was responsible (the bear or a bee) and how many times that bear/bee has done the same thing. Once a bee has deposited 15 portions of honey total, it commits suicide. Once the bear has eaten the honey pot five times, it commits suicide. At this point, the program returns to the main function and carries out an endless loop. See *output.txt* for actual output produced when running code.
 
 ## References
 https://www.altera.com/products/processors/overview.html

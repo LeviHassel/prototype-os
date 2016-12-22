@@ -14,7 +14,7 @@ Due to time constraints, we heaped together all functionality of our scheduler i
 An Altera DE1/DE2 board is required to run this code. Follow the steps [here](http://cse.unl.edu/~witty/class/csce351/Project/prelab/prelab.htm) to program the board and prepare the necessary software on your computer. After setting up the run configurations, simply import the files in this directory and run your configuration to begin the program.
 
 ## Expected Output
-Our program starts by printing the TCB structure information for every thread we create. It then prints the statements inside mythread() for each thread until either that thread finishes, in which it shows its destruction and how many times it ran, or an interrupt occurs. After either case, it begins printing mythread() for the next thread in the queue and carries on until all threads die. See output.txt for actual output produced when running code.
+Our program starts by printing the TCB structure information for every thread we create. It then prints the statements inside *mythread()* for each thread until either that thread finishes, in which it shows its destruction and how many times it ran, or an interrupt occurs. After either case, it begins printing *mythread()* for the next thread in the queue and carries on until all threads die. See *output.txt* for actual output produced when running code.
 
 ## References
 https://www.altera.com/products/processors/overview.html
