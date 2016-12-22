@@ -11,4 +11,5 @@ In order to run this code, you need to have an Altera DE1/DE2 board handy.
 
 ## References
 https://www.altera.com/products/processors/overview.html
+
 https://www.altera.com/solutions/partners/partner-profile/terasic-inc-/board/altera-de2-115-development-and-education-board.html
