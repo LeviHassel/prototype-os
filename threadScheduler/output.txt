@@ -1,0 +1,365 @@
+TCB thread 0:
+	threadID		=	0 
+	stackAddress	=	b188 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	ffa0 
+ 	threadState	=	0 
+ 	threadPriority	=	4 
+
+
+TCB thread 1:
+	threadID		=	1 
+	stackAddress	=	f040 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	13e58 
+ 	threadState	=	0 
+ 	threadPriority	=	3 
+
+
+TCB thread 2:
+	threadID		=	2 
+	stackAddress	=	12ef8 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	17d10 
+ 	threadState	=	0 
+ 	threadPriority	=	2 
+
+
+TCB thread 3:
+	threadID		=	3 
+	stackAddress	=	16db0 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	1bbc8 
+ 	threadState	=	0 
+ 	threadPriority	=	4 
+
+
+TCB thread 4:
+	threadID		=	4 
+	stackAddress	=	1ac68 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	1fa80 
+ 	threadState	=	0 
+ 	threadPriority	=	3 
+
+
+TCB thread 5:
+	threadID		=	5 
+	stackAddress	=	1eb20 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	23938 
+ 	threadState	=	0 
+ 	threadPriority	=	2 
+
+
+TCB thread 6:
+	threadID		=	6 
+	stackAddress	=	229d8 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	277f0 
+ 	threadState	=	0 
+ 	threadPriority	=	4 
+
+
+TCB thread 7:
+	threadID		=	7 
+	stackAddress	=	26890 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	2b6a8 
+ 	threadState	=	0 
+ 	threadPriority	=	3 
+
+
+TCB thread 8:
+	threadID		=	8 
+	stackAddress	=	2a748 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	2f560 
+ 	threadState	=	0 
+ 	threadPriority	=	2 
+
+
+TCB thread 9:
+	threadID		=	9 
+	stackAddress	=	2e600 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	33418 
+ 	threadState	=	0 
+ 	threadPriority	=	4 
+
+
+TCB thread a:
+	threadID		=	a 
+	stackAddress	=	324b8 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	372d0 
+ 	threadState	=	0 
+ 	threadPriority	=	3 
+
+
+TCB thread b:
+	threadID		=	b 
+	stackAddress	=	36370 
+ 	runCount		=	0
+	destroyAddr	=	730
+	stackSize		=	1b58 
+ 	stackPointer	=	3b188 
+ 	threadState	=	0 
+ 	threadPriority	=	2 
+
+
+Created all threads
+Joining threads
+
+
+This is message 0 of thread # 0.
+This is message 1 of thread # 0.
+This is message 2 of thread # 0.
+This is message 3 of thread # 0.
+This is message 4 of thread # 0.
+This is message 5 of thread # 0.
+This is message 6 of thread # 0.
+This is message 7 of thread # 0.
+This is message 8 of thread # 0.
+This is message 9 of thread # 0.
+
+Destroying thread: 0; Remaining threads: b
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 1.
+This is message 1 of thread # 1.
+This is message 2 of thread # 1.
+This is message 3 of thread # 1.
+This is message 4 of thread # 1.
+This is message 5 of thread # 1.
+This is message 6 of thread # 1.
+This is message 7 of thread # 1.
+This is message 8 of thread # 1.
+This is message 9 of thread # 1.
+This is message a of thread # 1.
+This is message b of thread # 1.
+This is message c of thread # 1.
+This is message d of thread # 1.
+This is message e of thread # 1.
+
+Destroying thread: 1; Remaining threads: a
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 2.
+This is message 1 of thread # 2.
+This is message 2 of thread # 2.
+This is message 3 of thread # 2.
+This is message 4 of thread # 2.
+This is message 5 of thread # 2.
+This is message 6 of thread # 2.
+This is message 7 of thread # 2.
+This is message 8 of thread # 2.
+This is message 9 of thread # 2.
+
+Destroying thread: 2; Remaining threads: 9
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 3.
+This is message 1 of thread # 3.
+This is message 2 of thread # 3.
+This is message 3 of thread # 3.
+This is message 4 of thread # 3.
+This is message 5 of thread # 3.
+This is message 6 of thread # 3.
+This is message 7 of thread # 3.
+This is message 8 of thread # 3.
+This is message 9 of thread # 3.
+This is message a of thread # 3.
+This is message b of thread # 3.
+This is message c of thread # 3.
+This is message d of thread # 3.
+This is message e of thread # 3.
+
+Destroying thread: 3; Remaining threads: 8
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 4.
+This is message 1 of thread # 4.
+This is message 2 of thread # 4.
+This is message 3 of thread # 4.
+This is message 4 of thread # 4.
+This is message 5 of thread # 4.
+This is message 6 of thread # 4.
+This is message 7 of thread # 4.
+This is message 8 of thread # 4.
+This is message 9 of thread # 4.
+
+Destroying thread: 4; Remaining threads: 7
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 5.
+This is message 1 of thread # 5.
+This is message 2 of thread # 5.
+This is message 3 of thread # 5.
+This is message 4 of thread # 5.
+This is message 5 of thread # 5.
+This is message 6 of thread # 5.
+This is message 7 of thread # 5.
+This is message 8 of thread # 5.
+This is message 9 of thread # 5.
+This is message a of thread # 5.
+This is message b of thread # 5.
+This is 
+
+This is message 0 of thread # b.
+This is message 1 of thread # b.
+This is message 2 of thread # b.
+This is message 3 of thread # b.
+This is message 4 of thread # b.
+This is message 5 of thread # b.
+This is message 6 of thread # b.
+This is message 7 of thread # b.
+This is message 8 of thread # b.
+This is message 9 of thread # b.
+This is message a of thread # b.
+This is message b of thread # b.
+This is message c of thread # b.
+This is me
+
+This is message 0 of thread # a.
+This is message 1 of thread # a.
+This is message 2 of thread # a.
+This is message 3 of thread # a.
+This is message 4 of thread # a.
+This is message 5 of thread # a.
+This is message 6 of thread # a.
+This is message 7 of thread # a.
+This is message 8 of thread # a.
+This is message 9 of thread # a.
+
+Destroying thread: a; Remaining threads: 6
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 9.
+This is message 1 of thread # 9.
+This is message 2 of thread # 9.
+This is message 3 of thread # 9.
+This is message 4 of thread # 9.
+This is message 5 of thread # 9.
+This is message 6 of thread # 9.
+This is message 7 of thread # 9.
+This is message 8 of thread # 9.
+This is message 9 of thread # 9.
+This is message a of thread # 9.
+This is message b of thread # 9.
+This is message c of thread # 9.
+This is message d of thread # 9.
+This is message e of thread # 9.
+
+Destroying thread: 9; Remaining threads: 5
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 8.
+This is message 1 of thread # 8.
+This is message 2 of thread # 8.
+This is message 3 of thread # 8.
+This is message 4 of thread # 8.
+This is message 5 of thread # 8.
+This is message 6 of thread # 8.
+This is message 7 of thread # 8.
+This is message 8 of thread # 8.
+This is message 9 of thread # 8.
+
+Destroying thread: 8; Remaining threads: 4
+This thread ran 1 time(s)
+
+message c of thread # 5.
+This is message d of thread # 5.
+This is message e of thread # 5.
+
+Destroying thread: 5; Remaining threads: 3
+This thread ran 2 time(s)
+
+ïsage d of thread # b.
+This is message e of thread # b.
+
+Destroying thread: b; Remaining threads: 2
+This thread ran 2 time(s)
+
+
+
+This is message 0 of thread # 7.
+This is message 1 of thread # 7.
+This is message 2 of thread # 7.
+This is message 3 of thread # 7.
+This is message 4 of thread # 7.
+This is message 5 of thread # 7.
+This is message 6 of thread # 7.
+This is message 7 of thread # 7.
+This is message 8 of thread # 7.
+This is message 9 of thread # 7.
+This is message a of thread # 7.
+This is message b of thread # 7.
+This is message c of thread # 7.
+This is message d of thread # 7.
+This is message e of thread # 7.
+
+Destroying thread: 7; Remaining threads: 1
+This thread ran 1 time(s)
+
+
+
+This is message 0 of thread # 6.
+This is message 1 of thread # 6.
+This is message 2 of thread # 6.
+This is message 3 of thread # 6.
+This is message 4 of thread # 6.
+This is message 5 of thread # 6.
+This is message 6 of thread # 6.
+This is message 7 of thread # 6.
+This is message 8 of thread # 6.
+This is message 9 of thread # 6.
+
+Destroying thread: 6; Remaining threads: 0
+This thread ran 1 time(s)
+
+All threads are dead!
+All threads are dead!
+All threads are dead!
+All threads are dead!
+All threads are dead!
+All threads are dead!
+All threads are dead!
+All threads are dead!
+...
