@@ -1,0 +1,195 @@
+The bees and the bear are alive!
+We are looping in main!
+Honey = 1: Bee 0 added Portion 0 of its honey
+Honey = 2: Bee 0 added Portion 1 of its honey
+Honey = 3: Bee 1 added Portion 0 of its honey
+Honey = 4: Bee 1 added Portion 1 of its honey
+Honey = 5: Bee 2 added Portion 0 of its honey
+Honey = 6: Bee 2 added Portion 1 of its honey
+Honey = 7: Bee 3 added Portion 0 of its honey
+Honey = 8: Bee 3 added Portion 1 of its honey
+Honey = 9: Bee 4 added Portion 0 of its honey
+Honey = a: Bee 4 added Portion 1 of its honey
+Honey = b: Bee 5 added Portion 0 of its honey
+Honey = c: Bee 5 added Portion 1 of its honey
+Honey = d: Bee 6 added Portion 0 of its honey
+Honey = e: Bee 6 added Portion 1 of its honey
+Honey = f: Bee 7 added Portion 0 of its honey
+Honey = 10: Bee 7 added Portion 1 of its honey
+Honey = 11: Bee 8 added Portion 0 of its honey
+Honey = 12: Bee 8 added Portion 1 of its honey
+Honey = 13: Bee 9 added Portion 0 of its honey
+Honey = 14: Bee 9 added Portion 1 of its honey
+Honey = 15: Bee 0 added Portion 2 of its honey
+Honey = 16: Bee 1 added Portion 2 of its honey
+Honey = 17: Bee 2 added Portion 2 of its honey
+Honey = 18: Bee 3 added Portion 2 of its honey
+Honey = 19: Bee 4 added Portion 2 of its honey
+Honey = 1a: Bee 5 added Portion 2 of its honey
+Honey = 1b: Bee 6 added Portion 2 of its honey
+Honey = 1c: Bee 7 added Portion 2 of its honey
+Honey = 1d: Bee 8 added Portion 2 of its honey
+Honey = 1e: Bee 9 can't add honey, the pot's already full
+Honey = 0: The bear ate all the honey for time 0
+
+Honey = 1: Bee 0 added Portion 3 of its honey
+Honey = 2: Bee 1 added Portion 3 of its honey
+Honey = 3: Bee 2 added Portion 3 of its honey
+Honey = 4: Bee 3 added Portion 3 of its honey
+Honey = 5: Bee 4 added Portion 3 of its honey
+Honey = 6: Bee 5 added Portion 3 of its honey
+Honey = 7: Bee 6 added Portion 3 of its honey
+Honey = 8: Bee 7 added Portion 3 of its honey
+Honey = 9: Bee 8 added Portion 3 of its honey
+Honey = a: Bee 9 added Portion 3 of its honey
+Honey = b: Bee 0 added Portion 4 of its honey
+Honey = c: Bee 1 added Portion 4 of its honey
+Honey = d: Bee 2 added Portion 4 of its honey
+Honey = e: Bee 3 added Portion 4 of its honey
+Honey = f: Bee 4 added Portion 4 of its honey
+Honey = 10: Bee 5 added Portion 4 of its honey
+Honey = 11: Bee 6 added Portion 4 of its honey
+Honey = 12: Bee 7 added Portion 4 of its honey
+Honey = 13: Bee 8 added Portion 4 of its honey
+Honey = 14: Bee 9 added Portion 4 of its honey
+Honey = 15: Bee 0 added Portion 5 of its honey
+Honey = 16: Bee 1 added Portion 5 of its honey
+Honey = 17: Bee 2 added Portion 5 of its honey
+Honey = 18: Bee 3 added Portion 5 of its honey
+Honey = 19: Bee 4 added Portion 5 of its honey
+Honey = 1a: Bee 5 added Portion 5 of its honey
+Honey = 1b: Bee 6 added Portion 5 of its honey
+Honey = 1c: Bee 7 added Portion 5 of its honey
+Honey = 1d: Bee 8 added Portion 5 of its honey
+Honey = 1e: Bee 9 can't add honey, the pot's already full
+Honey = 0: The bear ate all the honey for time 1
+
+Honey = 1: Bee 0 added Portion 6 of its honey
+Honey = 2: Bee 1 added Portion 6 of its honey
+Honey = 3: Bee 2 added Portion 6 of its honey
+Honey = 4: Bee 3 added Portion 6 of its honey
+Honey = 5: Bee 4 added Portion 6 of its honey
+Honey = 6: Bee 5 added Portion 6 of its honey
+Honey = 7: Bee 6 added Portion 6 of its honey
+Honey = 8: Bee 7 added Portion 6 of its honey
+Honey = 9: Bee 8 added Portion 6 of its honey
+Honey = a: Bee 9 added Portion 6 of its honey
+Honey = b: Bee 0 added Portion 7 of its honey
+Honey = c: Bee 0 added Portion 8 of its honey
+Honey = d: Bee 1 added Portion 7 of its honey
+Honey = e: Bee 1 added Portion 8 of its honey
+Honey = f: Bee 2 added Portion 7 of its honey
+Honey = 10: Bee 2 added Portion 8 of its honey
+Honey = 11: Bee 3 added Portion 7 of its honey
+Honey = 12: Bee 3 added Portion 8 of its honey
+Honey = 13: Bee 4 added Portion 7 of its honey
+Honey = 14: Bee 4 added Portion 8 of its honey
+Honey = 15: Bee 5 added Portion 7 of its honey
+Honey = 16: Bee 5 added Portion 8 of its honey
+Honey = 17: Bee 6 added Portion 7 of its honey
+Honey = 18: Bee 6 added Portion 8 of its honey
+Honey = 19: Bee 7 added Portion 7 of its honey
+Honey = 1a: Bee 7 added Portion 8 of its honey
+Honey = 1b: Bee 8 added Portion 7 of its honey
+Honey = 1c: Bee 8 added Portion 8 of its honey
+Honey = 1d: Bee 9 added Portion 7 of its honey
+Honey = 1e: Bee 9 can't add honey, the pot's already full
+Honey = 0: The bear ate all the honey for time 2
+
+Honey = 1: Bee 0 added Portion 9 of its honey
+Honey = 2: Bee 1 added Portion 9 of its honey
+Honey = 3: Bee 2 added Portion 9 of its honey
+Honey = 4: Bee 3 added Portion 9 of its honey
+Honey = 5: Bee 4 added Portion 9 of its honey
+Honey = 6: Bee 5 added Portion 9 of its honey
+Honey = 7: Bee 6 added Portion 9 of its honey
+Honey = 8: Bee 7 added Portion 9 of its honey
+Honey = 9: Bee 8 added Portion 9 of its honey
+Honey = a: Bee 9 added Portion 9 of its honey
+Honey = b: Bee 0 added Portion a of its honey
+Honey = c: Bee 1 added Portion a of its honey
+Honey = d: Bee 2 added Portion a of its honey
+Honey = e: Bee 3 added Portion a of its honey
+Honey = f: Bee 4 added Portion a of its honey
+Honey = 10: Bee 5 added Portion a of its honey
+Honey = 11: Bee 6 added Portion a of its honey
+Honey = 12: Bee 7 added Portion a of its honey
+Honey = 13: Bee 8 added Portion a of its honey
+Honey = 14: Bee 9 added Portion a of its honey
+Honey = 15: Bee 0 added Portion b of its honey
+Honey = 16: Bee 1 added Portion b of its honey
+Honey = 17: Bee 2 added Portion b of its honey
+Honey = 18: Bee 3 added Portion b of its honey
+Honey = 19: Bee 4 added Portion b of its honey
+Honey = 1a: Bee 5 added Portion b of its honey
+Honey = 1b: Bee 6 added Portion b of its honey
+Honey = 1c: Bee 7 added Portion b of its honey
+Honey = 1d: Bee 8 added Portion b of its honey
+Honey = 1e: Bee 9 can't add honey, the pot's already full
+Honey = 0: The bear ate all the honey for time 3
+
+Honey = 1: Bee 0 added Portion c of its honey
+Honey = 2: Bee 1 added Portion c of its honey
+Honey = 3: Bee 2 added Portion c of its honey
+Honey = 4: Bee 3 added Portion c of its honey
+Honey = 5: Bee 4 added Portion c of its honey
+Honey = 6: Bee 5 added Portion c of its honey
+Honey = 7: Bee 6 added Portion c of its honey
+Honey = 8: Bee 7 added Portion c of its honey
+Honey = 9: Bee 8 added Portion c of its honey
+Honey = a: Bee 9 added Portion c of its honey
+Honey = b: Bee 0 added Portion d of its honey
+Honey = c: Bee 1 added Portion d of its honey
+Honey = d: Bee 2 added Portion d of its honey
+Honey = e: Bee 3 added Portion d of its honey
+Honey = f: Bee 4 added Portion d of its honey
+Honey = 10: Bee 5 added Portion d of its honey
+Honey = 11: Bee 6 added Portion d of its honey
+Honey = 12: Bee 7 added Portion d of its honey
+Honey = 13: Bee 8 added Portion d of its honey
+Honey = 14: Bee 9 added Portion d of its honey
+Honey = 15: Bee 0 added Portion e of its honey
+Honey = 16: Bee 1 added Portion e of its honey
+Honey = 17: Bee 2 added Portion e of its honey
+Honey = 18: Bee 3 added Portion e of its honey
+Honey = 19: Bee 4 added Portion e of its honey
+Honey = 1a: Bee 5 added Portion e of its honey
+Honey = 1b: Bee 6 added Portion e of its honey
+Honey = 1c: Bee 7 added Portion e of its honey
+Honey = 1d: Bee 8 added Portion e of its honey
+Honey = 1e: Bee 9 can't add honey, the pot's already full
+Honey = 0: The bear ate all the honey for time 4
+
+The bear commits suicide
+
+Bee 0 commits suicide
+
+Bee 1 commits suicide
+
+Bee 2 commits suicide
+
+Bee 3 commits suicide
+
+Bee 4 commits suicide
+
+Bee 5 commits suicide
+
+Bee 6 commits suicide
+
+Bee 7 commits suicide
+
+Bee 8 commits suicide
+
+Bee 9 commits suicide
+
+Interrupted by the DE2 timer!
+Interrupted by the DE2 timer!
+Interrupted by the DE2 timer!
+Interrupted by the DE2 timer!
+We are looping in main!
+Interrupted by the DE2 timer!
+Interrupted by the DE2 timer!
+Interrupted by the DE2 timer!
+Interrupted by the DE2 timer!
+We are looping in main!
+...
