@@ -1,4 +1,4 @@
-# PrototypeOS
+# PrototypeOS, Part 1: Thread Scheduler
 
 #### Contributors
 Levi Hassel and Eugene Kuznetsov
