@@ -1,6 +1,6 @@
 # PrototypeOS
 
-#### Contributors
+### Contributors
 Levi Hassel and Eugene Kuznetsov
 
 ## Overview

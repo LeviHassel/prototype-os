@@ -24,13 +24,13 @@ The project is split across many files.
 
 *thread_handler.c/h*: CContains all thread functions for the scheduler.
 
-*exception_handler.S*: injects code into alt_exception_entry.S after every interrupt.
+*exception_handler.S*: injects code into *alt_exception_entry.S* after every interrupt.
 
-*project2.c*: Contains the main function, os_primitive(), which creates the bear and bees and starts the interrupt alarm, and contains definitions for bee() and bear(), the producer and cosumer functions.
+*project2.c*: Contains the main function, *os_primitive()*, which creates the bear and bees and starts the interrupt alarm, and contains definitions for *bee()* and *bear()*, the producer and cosumer functions.
 
 *sem_handler.c/h*: Contains all semaphore functions which control its operations (create, up, down, delete etc.).
 
-*sem_queue.c/h*: Slighlty modified version of queue.c/h designed to hold blocked threads for the semaphore.
+*sem_queue.c/h*: Slighlty modified version of *queue.c/h* designed to hold blocked threads for the semaphore.
 
 ## How to Run
 An Altera DE1/DE2 board is required to run this code. Follow the steps [here](http://cse.unl.edu/~witty/class/csce351/Project/prelab/prelab.htm) to program the board and prepare the necessary software on your computer. After setting up the run configurations, simply import the files in this directory and run your configuration to begin the program.
