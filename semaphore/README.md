@@ -22,11 +22,11 @@ The project is split across many files.
 
 *queue.c/h*: Contains all functions for queue designed to hold TCB threads.
 
-*thread_handler.c/h*: CContains all thread functions for the scheduler.
+*thread_handler.c/h*: Contains all thread functions for the scheduler.
 
-*exception_handler.S*: injects code into *alt_exception_entry.S* after every interrupt.
+*exception_handler.S*: Injects code into *alt_exception_entry.S* after every interrupt.
 
-*project2.c*: Contains the main function, *os_primitive()*, which creates the bear and bees and starts the interrupt alarm, and contains definitions for *bee()* and *bear()*, the producer and cosumer functions.
+*project2.c*: Contains *main()*, *os_primitive()*, which creates the bear and bees and starts the interrupt alarm, and contains definitions for *bee()* and *bear()*, the producer and cosumer functions.
 
 *sem_handler.c/h*: Contains all semaphore functions which control its operations (create, up, down, delete etc.).
 
